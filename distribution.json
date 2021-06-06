@@ -374,7 +374,17 @@
             "size": 737407,
             "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_ae82deb7ba4143da9a1ed72462c78d12.jar",
             "MD5": "fcfba1c2cd0aad29c36387a346f46121"
-          }          
+          }
+        },
+        { 
+          "id": "net.mcreator:08adbd_9425a905333a47dba9d23f68dd14728b:08adbd_9425a905333a47dba9d23f68dd14728b@jar",
+          "name": "08adbd_9425a905333a47dba9d23f68dd14728b",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6698184,
+            "url": "https://08adbdd0-6258-4214-bece-27c4c3d66512.usrfiles.com/archives/08adbd_9425a905333a47dba9d23f68dd14728b.jar",
+            "MD5": "fcfba1c2cd0aad29c36387a346f46121"
+          }            
         },
         { 
           "id": "net.mcreator:08adbd_6681284722004be19b72d54589f257b9:08adbd_6681284722004be19b72d54589f257b9@jar",
