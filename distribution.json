@@ -364,7 +364,18 @@
             "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/mainmenu.json",
             "MD5": "75fc34f73e9484efe639e096549130de",
             "path": "config/CustomMainMenu/mainmenu.json"
-          }          
+          } 
+        },
+        {
+          "id": "customloadingscreen.cfg",
+          "name": "customloadingscreen.cfg,
+          "type": "File",
+          "artifact": {
+            "size": 470,
+            "url": "https://raw.githubusercontent.com/Ethan-Cooper-21/Saturne/main/customloadingscreen.cfg",
+            "MD5": "75fc34f73e9484efe639e096549130de",
+            "path": "config/customloadingscreen.cfg"
+          }           
         },
         { 
           "id": "net.mcreator:teamplaymod:teamplaymod@jar",
